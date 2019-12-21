@@ -1,0 +1,38 @@
+/* border color: #bdc3c7
+date color: #3498db
+h2 color #2c3e50
+
+font: source sans pro
+hr style */
+
+div {
+    border: 20px solid #bdc3c7;
+    padding: 5% 10%;
+    margin: 5% 10%;
+}
+
+.date {
+    font-family: "Source Sans Pro";
+    color: #3498db;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.borderleft {
+    border-left: 5px solid #bdc3c7;
+    padding-left: 5%;
+}
+
+h2 {
+    color: #2c3e50;
+}
+
+hr.style-one{
+    border: 0;
+    height: 0;
+    border-top: 1px solid rgba(0,0,0,0.1);
+    border-bottom: 1px solid rgba(255,255,2550.3);
+
+}
+/* birthday date and place
+bapuji paisa to baa */

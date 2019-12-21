@@ -1,0 +1,35 @@
+h1 {
+    color: rgb(0,0,0);
+    /* border-color: purple;
+    border-width: 5px;
+    border-style: solid; */
+    /* #000000 */
+    border: 2px solid purple;
+}
+h1 {
+    color: rgba(0,200,100,0.2);
+    /* #000000 */
+}
+/* #rgba (a gives transparancy) */
+
+h4 {
+    background: rgb(255, 100, 80);
+}
+
+
+
+body {
+    /* background: url(https://cdn.shopify.com/s/files/1/0254/2381/products/IMG_1065_1024x1024.jpg?v=1507917970);
+    background-repeat: no-repeat;
+    background-size: cover;
+} */
+    background: pink;
+}
+
+li {
+    color: green;
+}
+
+h4 {
+    color: purple;
+}

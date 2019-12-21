@@ -1,0 +1,30 @@
+h1 {
+    text-align: center;
+}
+
+table {
+    padding: 100px 100px 100px 100px;
+    margin: auto;
+    border-collapse: collapse;
+}
+
+table td {
+    border: 2px solid black;
+    padding: 50px 50px 50px 50px;
+}
+
+table tr:first-child td {
+    border-top: none;
+}
+
+table tr:last-child td {
+    border-bottom: none;
+}
+
+table tr td:first-child {
+    border-left: none;
+}
+
+table tr td:last-child {
+    border-right: none;
+}
